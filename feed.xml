@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Turbo Marketing Tips</title>
+    <link>https://example.com/</link>
+    <description>Daily marketing and business growth tips</description>
+    
+    <item>
+      <title>Marketing Tip 1</title>
+      <description>Always focus on solving customer problems, not just selling products.</description>
+      <pubDate>Fri, 22 Aug 2025 09:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Marketing Tip 2</title>
+      <description>Consistency in branding builds trust and recognition over time.</description>
+      <pubDate>Sat, 23 Aug 2025 09:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Marketing Tip 3</title>
+      <description>Use social proof like reviews and testimonials to influence buyers.</description>
+      <pubDate>Sun, 24 Aug 2025 09:00:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
